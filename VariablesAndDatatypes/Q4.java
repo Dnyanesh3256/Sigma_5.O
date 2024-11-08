@@ -1,3 +1,7 @@
+/*
+What will be the type of result in the following Java code?
+*/
+
 public class Q4 {
     public static void main(String args[]){
         byte b = 4;
